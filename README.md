@@ -2,7 +2,7 @@
 ## ⚡️ Expense Tracker in React ⚛️ with Report generation 🖊🖊 of Transactions  📑🗒
 
 
-⚡️ Demo Link : http://expense-tracker-2002.surge.sh/
+⚡️ Demo Link : https://expense-trackx.netlify.app/
  
 ![Image1](./images/expense1.png)
 
@@ -14,7 +14,7 @@
 ![Image4](./images/exp4.png)
 
 
-👩‍💻 HINA KHADIM 🇵🇰 🇵🇰 
+👩‍💻 Sidharth Pradhan
 
 - Github : [@Igrish990](https://github.com/Igrish990)
 
