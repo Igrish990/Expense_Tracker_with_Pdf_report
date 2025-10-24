@@ -16,7 +16,7 @@
 
 👩‍💻 HINA KHADIM 🇵🇰 🇵🇰 
 
-- Github : [@Hina-softwareEngineer](https://github.com/Hina-softwareEngineer)
+- Github : [@Igrish990](https://github.com/Igrish990)
 
 
 > If you want to contribute, feel free to make a Pull Request ✨✨.
